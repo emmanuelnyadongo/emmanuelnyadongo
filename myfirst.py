@@ -1,0 +1,3 @@
+#zvakaoma
+
+print("zvirisei")
