@@ -1,3 +1,0 @@
-#zvakaoma
-
-print("zvirisei")
