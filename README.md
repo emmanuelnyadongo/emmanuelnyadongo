@@ -1,3 +1,3 @@
-# Hi Emmanuel 👋
+# Emmanuel 👋
 
-[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelnyadongo)](https://github.com/emmanuelnyadongo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelnyadongo)](https://github.com/emmanuelnyadongo/github-readme-stats)
